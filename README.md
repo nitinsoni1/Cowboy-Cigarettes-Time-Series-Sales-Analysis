@@ -8,12 +8,12 @@ The results of your analysis will be used as part of a major report relating pub
 
 As ever, this notebook is tiered, meaning you can elect that tier that is right for your confidence and skill level. There are 3 tiers, with tier 1 being the easiest and tier 3 being the hardest.
 
-##1. Sourcing and loading
+## 1. Sourcing and loading
 
 Load relevant libraries
 Load the data
 Explore the data
-##2. Cleaning, transforming and visualizing
+## 2. Cleaning, transforming and visualizing
 
 Dropping unwanted columns
 Nomenclature
@@ -21,7 +21,7 @@ Type conversions
 Making a predictor variable y
 Getting summary statistics for y
 Plotting y
-##3. Modelling
+## 3. Modelling
 
 Decomposition
 Trend
@@ -34,7 +34,7 @@ Make a function to find the MSE of a single ARIMA model
 Make a function to evaluate the different ARIMA models with different p, d, and q values
 Visualize the results
 Application: Forecasting
-##4. Evaluating and concluding
+## 4. Evaluating and concluding
 
 What is our conclusion?
 Next steps
