@@ -10,9 +10,9 @@ As ever, this notebook is tiered, meaning you can elect that tier that is right 
 
 ## 1. Sourcing and loading
 
--Load relevant libraries.
--Load the data.
--Explore the data.
+-Load relevant libraries__
+-Load the data__
+-Explore the data__
 ## 2. Cleaning, transforming and visualizing
 
 Dropping unwanted columns
