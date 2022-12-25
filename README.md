@@ -12,29 +12,29 @@ As ever, this notebook is tiered, meaning you can elect that tier that is right 
 
 Load relevant libraries\
 Load the data\
-Explore the data\
+Explore the data
 ## 2. Cleaning, transforming and visualizing
 
-Dropping unwanted columns
-Nomenclature
-Type conversions
-Making a predictor variable y
-Getting summary statistics for y
+Dropping unwanted columns\
+Nomenclature\
+Type conversions\
+Making a predictor variable y\
+Getting summary statistics for y\
 Plotting y
 ## 3. Modelling
 
-Decomposition
-Trend
-Seasonality
-Noise
-Testing for stationarity with KPSS
-Making the data stationary
-The ARIMA Model
-Make a function to find the MSE of a single ARIMA model
-Make a function to evaluate the different ARIMA models with different p, d, and q values
-Visualize the results
-Application: Forecasting
+Decomposition\
+Trend\
+Seasonality\
+Noise\
+Testing for stationarity with KPSS\
+Making the data stationary\
+The ARIMA Model\
+Make a function to find the MSE of a single ARIMA model\
+Make a function to evaluate the different ARIMA models with different p, d, and q values\
+Visualize the results\
+Application: Forecasting\
 ## 4. Evaluating and concluding
 
-What is our conclusion?
+What is our conclusion?\
 Next steps
